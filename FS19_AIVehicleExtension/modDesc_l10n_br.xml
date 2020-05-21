@@ -87,7 +87,7 @@
 		<text name = "input_AIVE_HELPPANEL" text = "AI alternativa: Mostrar / ocultar HUD" />
 		<text name = "input_AIVE_STEER" text = "AI alternativo: direção automática" />
 		<text name = "input_AIVE_SWAP_SIDE" text = "AI alternativo: alterar lado ativo" />
-		<nome do texto = "input_AIVE_ENABLE" text = "AI alternativa: alterar AI" />
+		<text name = "input_AIVE_ENABLE" text = "AI alternativa: alterar AI" />
 		<text name = "input_AIVE_UTURN_ON_OFF" text = "AI alternativo: Modo circular ativado / desativado" />
 		<text name = "input_AIVE_STEERING" text = "AI alternativo: direção manual" />
 		<text name = "input_AIVE_RAISE" text = "AI alternativa: aumentar / diminuir todas as ferramentas" />
